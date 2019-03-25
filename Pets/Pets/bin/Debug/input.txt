@@ -1,0 +1,14 @@
+Igor Letov,Dog,Hoy,13
+Kazimir Malevich,Goldfish,,1
+Kazimir Malevich,Goldfish,,1
+Kazimir Malevich,Goldfish,,1
+Kazimir Malevich,Goldfish,,1
+Kazimir Malevich,Goldfish,,1
+Kazimir Malevich,Goldfish,,1
+Kazimir Malevich,Goldfish,,1
+Kazimir Malevich,Parrot,Triangle,3
+Franz Kafka,Beetle,K,23
+Franz Kafka,Beetle,,7
+Franz Kafka,Beetle,,27
+Ivan Denisovich,Dog,Ivan Ivanovich,2
+Ivan Denisovich,Parrot,Matisse,18

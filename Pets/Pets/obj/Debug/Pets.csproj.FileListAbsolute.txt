@@ -1,0 +1,7 @@
+D:\Программирование\MS VC#\Pets\Pets\bin\Debug\Pets.exe.config
+D:\Программирование\MS VC#\Pets\Pets\bin\Debug\Pets.exe
+D:\Программирование\MS VC#\Pets\Pets\bin\Debug\Pets.pdb
+D:\Программирование\MS VC#\Pets\Pets\obj\Debug\Pets.csprojAssemblyReference.cache
+D:\Программирование\MS VC#\Pets\Pets\obj\Debug\Pets.csproj.CoreCompileInputs.cache
+D:\Программирование\MS VC#\Pets\Pets\obj\Debug\Pets.exe
+D:\Программирование\MS VC#\Pets\Pets\obj\Debug\Pets.pdb
